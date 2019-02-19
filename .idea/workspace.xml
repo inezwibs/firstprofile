@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="csc413-tankgame-inezwibs:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c737861c-59a8-4fc4-b909-e64146a6f0c1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/csc413_tankgame_example3$tre.ic" NAME="tre Coverage Results" MODIFIED="1542353001310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="458707189">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3238" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3238" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="262193685">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.95" value="1" />
+          <entry key="project.opened" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JAVA/tank" value="1" />
+          <entry key="java" value="154" />
+          <entry key="png" value="16" />
+          <entry key="txt" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="16" />
+          <entry key="JAVA" value="154" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="30947" />
+          <entry key="txt" value="268" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="30947" />
+          <entry key="PLAIN_TEXT" value="268" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tank/objects/Tank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3281">
+              <caret line="243" column="4" selection-start-line="243" selection-start-column="4" selection-end-line="243" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tank/objects/GameBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4811">
+              <caret line="303" column="32" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tank/objects/Bullet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tank/objects/ObjectUpdater.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tank/objects/GameStatus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tank/background/Engine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="4" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tank/background/TileLayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2244">
+              <caret line="141" column="26" selection-start-line="141" selection-start-column="26" selection-end-line="141" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/map2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/map.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tank/objects/Wall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tick</find>
+      <find>status</find>
+      <find>powerup</find>
+      <find>new Tank</find>
+      <find>play1world</find>
+      <find>new tank</find>
+      <find>draw</find>
+      <find>render()</find>
+      <find>right</find>
+      <find>rotateright</find>
+      <find>buffer</find>
+      <find>boolean</find>
+      <find>load</find>
+      <find>bulletarraylist</find>
+      <find>world</find>
+      <find>walllife</find>
+      <find>checkborder</find>
+      <find>running</find>
+      <find>objectupdater</find>
+      <find>render</find>
+      <find>remove</find>
+      <find>barray</find>
+      <find>load tank</find>
+      <find>gety</find>
+      <find>ispower</find>
+      <find>hearthealth</find>
+      <find>frame</find>
+      <find>bulletArrayList</find>
+      <find>map</find>
+      <find>drawupdatebullets</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tankrotationexample/TRE.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/TankControl.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/BulletControl.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/StatusLayer.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/GameObject.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/GameStatus.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/Builder.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/Camera.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/ObjectUpdater.java" />
+        <option value="$PROJECT_DIR$/MouseInput.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/Tank.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/Bullet.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/Wall.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/MouseInput.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/GameBoard.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/objects/TankControl.java" />
+        <option value="$PROJECT_DIR$/map.txt" />
+        <option value="$PROJECT_DIR$/tankrotationexample/objects/GameObject.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/objects/PowerUp.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/objects/GameStatus.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/objects/MouseInput.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/ID.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/background/TileLayer.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/objects/Bullet.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/objects/GameBoard.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/objects/ObjectUpdater.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/objects/Tank.java" />
+        <option value="$PROJECT_DIR$/tankrotationexample/objects/Wall.java" />
+        <option value="$PROJECT_DIR$/tank/ID.java" />
+        <option value="$PROJECT_DIR$/resources/map.txt" />
+        <option value="$PROJECT_DIR$/resources/map2.txt" />
+        <option value="$PROJECT_DIR$/tank/objects/Bullet.java" />
+        <option value="$PROJECT_DIR$/tank/objects/GameBoard.java" />
+        <option value="$PROJECT_DIR$/tank/background/TileLayer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="493" />
+    <option name="y" value="24" />
+    <option name="width" value="880" />
+    <option name="height" value="667" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="csc413-tankgame-example3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-tankgame-example3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csc413-tankgame-example3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-tankgame-example3" type="462c0819:PsiDirectoryNode" />
+              <item name="tank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csc413-tankgame-example3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-tankgame-example3" type="462c0819:PsiDirectoryNode" />
+              <item name="tank" type="462c0819:PsiDirectoryNode" />
+              <item name="background" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csc413-tankgame-example3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-tankgame-example3" type="462c0819:PsiDirectoryNode" />
+              <item name="tank" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544685317583" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Inez\Documents\csc413-tankgame-example3\tankrotationexample" />
+      <recent name="C:\Users\Inez\Documents\csc413-tankgame-example3" />
+      <recent name="C:\Users\Inez\Documents\csc413-tankgame-example3\jar" />
+      <recent name="C:\Users\Inez\Documents\csc413-tankgame-example3\resources" />
+      <recent name="C:\Users\Inez\Documents\csc413-tankgame-example3\out\artifacts\csc413_tankgame_example3_jar2\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Inez\Documents\csc413-tankgame-example3\tankrotationexample" />
+      <recent name="C:\Users\Inez\Documents\csc413-tankgame-example3\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JAR Application.tankgamejar">
+    <configuration name="tre" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tank.objects.GameBoard" />
+      <module name="csc413-tankgame-inezwibs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="csc413-tankgame-inezwibs:jar" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="tankgamejar" type="JarApplication" factoryName="JAR Application">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/csc413_tankgame_inezwibs_jar/csc413-tankgame-inezwibs.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Inez\Documents\csc413-tankgame-example3" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="csc413-tankgame-inezwibs" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="csc413-tankgame-inezwibs:jar" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.tre" />
+      <item itemvalue="JAR Application.tankgamejar" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c737861c-59a8-4fc4-b909-e64146a6f0c1" name="Default Changelist" comment="" />
+      <created>1541881935495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541881935495</updated>
+      <workItem from="1541881939502" duration="22947000" />
+      <workItem from="1541959170701" duration="3853000" />
+      <workItem from="1541964726975" duration="2591000" />
+      <workItem from="1541967339160" duration="18543000" />
+      <workItem from="1542041233518" duration="591000" />
+      <workItem from="1542125801550" duration="1369000" />
+      <workItem from="1542150733317" duration="26109000" />
+      <workItem from="1542232484392" duration="1443000" />
+      <workItem from="1542308247654" duration="36268000" />
+      <workItem from="1542384318512" duration="23397000" />
+      <workItem from="1542430999932" duration="8726000" />
+      <workItem from="1542563147537" duration="146000" />
+      <workItem from="1542604552883" duration="950000" />
+      <workItem from="1542666083758" duration="19352000" />
+      <workItem from="1542726427048" duration="26347000" />
+      <workItem from="1542775593524" duration="8784000" />
+      <workItem from="1542818727434" duration="34747000" />
+      <workItem from="1543263492216" duration="1000" />
+      <workItem from="1544226392773" duration="71000" />
+      <workItem from="1544328114642" duration="2661000" />
+      <workItem from="1544375055340" duration="588000" />
+      <workItem from="1544477149660" duration="3706000" />
+      <workItem from="1544551732902" duration="4949000" />
+      <workItem from="1544579565286" duration="1370000" />
+      <workItem from="1544596279544" duration="456000" />
+      <workItem from="1544662366425" duration="1277000" />
+      <workItem from="1544684270150" duration="1152000" />
+      <workItem from="1544742590810" duration="9161000" />
+      <workItem from="1550440298318" duration="596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="262151000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="493" y="24" width="880" height="667" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" x="0" y="23" width="1366" height="705" id="Project" order="0" side_tool="true" visible="true" weight="0.22317073" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24924925" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5355286" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4892368" weight="0.15474209" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.06641366" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.17157713" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5088063" side_tool="true" weight="0.51282054" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49119374" weight="0.1594454" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32889733" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/Bullet.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/Bullet.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/Bullet.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/Tank.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/Bullet.java</url>
+          <line>125</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/Bullet.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/Bullet.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>144</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>146</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>169</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>182</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>180</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tank/objects/GameBoard.java</url>
+          <line>179</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tankrotationexample/TRE.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/java/awt/image/Raster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="1191" selection-start-line="1191" selection-end-line="1191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/sun/awt/image/IntegerComponentRaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../csc413-tankgame-workingbackup/Bullet.java" />
+    <entry file="file://$PROJECT_DIR$/../csc413-tankgame-workingbackup/Tank.java" />
+    <entry file="file://$PROJECT_DIR$/resources/heart.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="792" column="19" selection-start-line="792" selection-start-column="19" selection-end-line="792" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tankrotationexample/StatusLayer.java" />
+    <entry file="file://$PROJECT_DIR$/tankrotationexample/BulletControl.java" />
+    <entry file="file://$PROJECT_DIR$/tankrotationexample/Camera.java" />
+    <entry file="file://$PROJECT_DIR$/resources/tank1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tankrotationexample/Builder.java" />
+    <entry file="file://$PROJECT_DIR$/resources/heart_bullet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/csc413_tankgame_example3_jar/resources/map.txt" />
+    <entry file="file://$PROJECT_DIR$/../csc413-tankgame-example/TankRotationExample/tankrotationexample/background/TileLayer.java" />
+    <entry file="file://$PROJECT_DIR$/../csc413-tankgame-example/TankRotationExample/tankrotationexample/GameBoard.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30900">
+          <caret line="1036" column="27" selection-start-line="1036" selection-start-column="27" selection-end-line="1036" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jar/resources/map.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/power_up.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="247" selection-start-line="247" selection-end-line="247" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="371" selection-start-line="371" selection-end-line="371" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/java/awt/image/BufferedImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="1201" selection-start-line="1201" selection-end-line="1201" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/brick_wall.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tankrotationexample/map.txt" />
+    <entry file="file://$PROJECT_DIR$/../csc413-tankgame-example2/tankrotationexample/GameBoard.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_csc413-tankgame-example3-backup (4).zip/csc413-tankgame-example3/tankrotationexample/objects/GameBoard.java" />
+    <entry file="file://$PROJECT_DIR$/resources/Tile.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="995" selection-start-line="995" selection-end-line="995" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tankrotationexample/objects/MouseInput.java" />
+    <entry file="file://$PROJECT_DIR$/tank/objects/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/tank">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>tank</OriginalElement>
+          <nodes>
+            <node x="269.0" y="227.0">tank.ID</node>
+            <node x="0.0" y="227.0">tank.background.TileLayer</node>
+            <node x="0.0" y="153.0">tank.objects.ObjectUpdater</node>
+            <node x="140.0" y="227.0">tank.background.Engine</node>
+            <node x="130.99999999999997" y="79.0">tank.objects.Tank</node>
+            <node x="341.0" y="79.0">tank.objects.Bullet</node>
+            <node x="329.0" y="153.0">tank.objects.GameBoard</node>
+            <node x="170.0" y="153.0">tank.objects.TankControl</node>
+            <node x="439.0" y="79.0">tank.objects.Wall</node>
+            <node x="224.99999999999997" y="79.0">tank.objects.PowerUp</node>
+            <node x="0.0" y="79.0">tank.objects.GameStatus</node>
+            <node x="215.99999999999997" y="0.0">tank.objects.GameObject</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="tank.objects.Bullet" target="tank.objects.GameObject">
+              <point x="0.0" y="-14.5" />
+              <point x="380.0" y="59.0" />
+              <point x="295.79999999999995" y="59.0" />
+              <point x="22.799999999999983" y="14.5" />
+            </edge>
+            <edge source="tank.objects.Wall" target="tank.objects.GameObject">
+              <point x="0.0" y="-14.5" />
+              <point x="474.5" y="49.0" />
+              <point x="318.5999999999999" y="49.0" />
+              <point x="45.599999999999966" y="14.5" />
+            </edge>
+            <edge source="tank.objects.GameStatus" target="tank.objects.GameObject">
+              <point x="0.0" y="-14.5" />
+              <point x="55.5" y="49.0" />
+              <point x="227.39999999999998" y="49.0" />
+              <point x="-45.599999999999994" y="14.5" />
+            </edge>
+            <edge source="tank.objects.PowerUp" target="tank.objects.GameObject">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="tank.objects.Tank" target="tank.objects.GameObject">
+              <point x="0.0" y="-14.5" />
+              <point x="167.99999999999997" y="59.0" />
+              <point x="250.19999999999996" y="59.0" />
+              <point x="-22.80000000000001" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.1" x="198.0" y="123.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4896">
+          <caret line="833" selection-start-line="833" selection-end-line="833" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tile.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tank/objects/TankControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tank/ID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tank/objects/PowerUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tank/objects/Tank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3281">
+          <caret line="243" column="4" selection-start-line="243" selection-start-column="4" selection-end-line="243" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tank/objects/GameBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4811">
+          <caret line="303" column="32" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tank/objects/Bullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tank/objects/ObjectUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tank/background/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tank/background/TileLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="141" column="26" selection-start-line="141" selection-start-column="26" selection-end-line="141" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/map2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/map.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tank/objects/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tank/objects/GameStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>csc413-tankgame-inezwibs:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>csc413-tankgame-inezwibs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

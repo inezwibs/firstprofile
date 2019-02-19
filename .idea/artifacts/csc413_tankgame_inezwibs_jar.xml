@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csc413-tankgame-inezwibs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/csc413_tankgame_inezwibs_jar</output-path>
+    <root id="archive" name="csc413-tankgame-inezwibs.jar">
+      <element id="module-output" name="csc413-tankgame-inezwibs" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
